@@ -140,7 +140,6 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   position: relative;
-  min-height: 10px;
 }
 .thrv_wrapper.thrv-content-box div:not(.thrv_icon):not(.ui-resizable-handle) {
   -webkit-box-sizing: border-box;
