@@ -4,10 +4,10 @@
   "main": "index.js",
   "author": "Joshua Comeau",
   "scripts": {
-    "start": "live-server --port=5000 --host=localhost ."
+    "start": "serve -p 5000 ."
   },
   "dependencies": {
-    "live-server": "1.2.1"
+    "serve": "^12.0.0"
   },
   "engines": {
     "npm": ">5"
